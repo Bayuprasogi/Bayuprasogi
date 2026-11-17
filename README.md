@@ -21,7 +21,6 @@
 | Proyek | Deskripsi | Stack |
 |---|---|---|
 | **itsformapp** *(private, aplikasi internal)* | Aplikasi formulir dengan modul SPK untuk menilai kinerja teknisi. | Laravel · MySQL · Blade |
-| [**ITS-TEKNISI**](https://github.com/Bayuprasogi/ITS-TEKNISI) | Form data teknisi PT International Teknik Solusindo. | JavaScript |
 | [**Portofolio**](https://github.com/Bayuprasogi/Portofolio) | Situs portofolio pribadi bergaya jendela aplikasi dengan tab berwarna batik. | HTML · CSS · JavaScript |
 
 ### 🛠️ Tools
