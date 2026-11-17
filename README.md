@@ -12,7 +12,7 @@
 
 ### 💼 Pengalaman
 
-- **Pengembang Web**, International Teknik Solusindo: membangun dan merawat *itsformapp*, aplikasi internal dengan modul SPK dan penilaian teknisi berbasis Laravel.
+- **Pengembang Web**, PT Internasional Teknik Solusindo: membangun dan merawat *itsformapp*, aplikasi internal dengan modul SPK dan penilaian teknisi berbasis Laravel.
 - **Deploy & pemeliharaan**: mengunggah pembaruan aplikasi Laravel ke hosting berpanel Plesk tanpa mengganggu pengguna.
 - **Mahasiswa Teknik Informatika**, Universitas Dian Nusantara.
 
